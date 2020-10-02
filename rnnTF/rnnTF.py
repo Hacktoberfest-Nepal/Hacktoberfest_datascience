@@ -26,3 +26,4 @@ output = layers.Dense(10)(decoder_output)
 
 model = tf.keras.Model([encoder_input,decoder_input],output)
 model.summary()
+
