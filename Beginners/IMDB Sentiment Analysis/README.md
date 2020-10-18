@@ -1,3 +1,3 @@
-# workdone-pujan
+# IMBD Reviews Sentiment Analysis
 
-Works done by Pujan Thapa
+We have data of imdb reviews data in csv extension and a jupyter notebook file.
